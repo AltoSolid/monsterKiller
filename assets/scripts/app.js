@@ -40,7 +40,6 @@ function writeToLog(event, value, monsterHealth, playerHealth) {
         }
         battleLog.push(logEntry);
     }
-
 }
 
 
