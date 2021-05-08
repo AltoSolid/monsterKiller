@@ -2,14 +2,14 @@
 This simple game was develop to practice JavaScript, HTML and CSS. 
 
 ## Language version of Readme
-[Version en español]()
+[Version en español](https://github.com/AltoSolid/monsterKiller/blob/main/readme-es.md)
 
-[한국어 버전]()
+[한국어 버전](https://github.com/AltoSolid/monsterKiller/blob/main/readme-ko.md)
 
 ## Result 
-![]()
-![]()
-![]()
+![img1](https://github.com/AltoSolid/monsterKiller/blob/main/assets/images/img.png)
+![img2](https://github.com/AltoSolid/monsterKiller/blob/main/assets/images/img-2.png)
+![img3](https://github.com/AltoSolid/monsterKiller/blob/main/assets/images/img-3.png)
 
 ## Technology used
 Just the classics: 

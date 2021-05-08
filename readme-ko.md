@@ -1,15 +1,15 @@
 # 몬스터킬러 게임
-
+이 간단한 게임은 HTML하고 CSS하고 JavaScript를 연습하기 위해 개발되었다.
 
 ## Readme의 언어 버전
-[Version en español]()
+[Version en español](https://github.com/AltoSolid/monsterKiller/blob/main/readme-es.md)
 
-[English version]()
+[English version](https://github.com/AltoSolid/monsterKiller)
 
 ## 결과 
-![]()
-![]()
-![]()
+![img1](https://github.com/AltoSolid/monsterKiller/blob/main/assets/images/img.png)
+![img2](https://github.com/AltoSolid/monsterKiller/blob/main/assets/images/img-2.png)
+![img3](https://github.com/AltoSolid/monsterKiller/blob/main/assets/images/img-3.png)
 
 ## 사용된 기술 
 "Classics"만
